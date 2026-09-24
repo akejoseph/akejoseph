@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Joseph 👋
 
-<!--
-**akejoseph/akejoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on backend systems, APIs, security,
+Web3, and open-source development.
 
-Here are some ideas to get you started:
+### Focus
+- Backend & API Development
+- TypeScript / JavaScript / Python
+- Testing & Automation
+- Security
+- Web3
+- Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building, contributing, and solving real-world
+software engineering problems
